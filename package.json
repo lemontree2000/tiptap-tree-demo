@@ -6,9 +6,11 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@ant-design/icons-vue": "^6.0.1",
     "@tiptap/core": "^2.0.0-beta.74",
     "@tiptap/starter-kit": "^2.0.0-beta.71",
     "@tiptap/vue-3": "^2.0.0-beta.40",
+    "ant-design-vue": "^2.1.6",
     "vue": "^3.0.5"
   },
   "devDependencies": {
